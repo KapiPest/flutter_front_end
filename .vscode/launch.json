@@ -8,7 +8,7 @@
             "name": "rtwqms",
             "cwd": "myApp\\rtwqms",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
         },
         {
             "name": "rtwqms (profile mode)",
